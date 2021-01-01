@@ -1,5 +1,7 @@
 ## Your GitHub Learning Lab Repository for Intro to HTML
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/efbfb054327d488db395d018c2742eee)](https://app.codacy.com/gh/Ovha812/intro-html?utm_source=github.com&utm_medium=referral&utm_content=Ovha812/intro-html&utm_campaign=Badge_Grade)
+
 Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
 Oh! I haven't introduced myself...
